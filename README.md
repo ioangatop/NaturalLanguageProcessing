@@ -44,8 +44,8 @@ We cover the following approaches:
 
 #### Results
 <p align="center">
-  <img src="readme_imgs/results_plot_2.png" width="300" />
-  <img src="readme_imgs/results_plot2_2.png" width="300" />
+  <img src="readme_imgs/results_plot_2.png" width="400" />
+  <img src="readme_imgs/results_plot2_2.png" width="400" />
 </p>
 <p align="center">
     Accuracy results of the models.
